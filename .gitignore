@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+
+# 环境变量与密钥（切勿提交）
+.env
+.env.*
+*.pem
+*.key
